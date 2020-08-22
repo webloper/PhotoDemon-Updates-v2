@@ -1,6 +1,6 @@
-## PhotoDemon 7.2+ automatic update interface
+## PhotoDemon 8.0+ automatic update interface
 
-In v7.2, PhotoDemon's automatic update interface received a number of improvements.  These improvements were primarily focused delivering faster, smaller, more secure updates to end-users, with a happy side-effect of being a better GitHub citizen (by requiring fewer resources to deliver our updates).
+In v8.0, PhotoDemon's automatic update interface received a number of improvements.  These improvements were primarily focused delivering faster, smaller, more secure updates to end-users, with a happy side-effect of being a better GitHub citizen (by requiring fewer resources to deliver our updates).
 
 This new update system is built off GitHub Pages, which has several advantages over serving update data from a raw GitHub repository.  (Benefits include better CDN coverage and much more generous bandwidth limits.)  PD already does a lot to minimize update notifications, but nightly builds are a little more cumbersome, owing to the frequency with which they change.
 
