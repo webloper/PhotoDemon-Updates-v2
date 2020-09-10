@@ -2,7 +2,7 @@
 
 **Stable:** <a id="pdv_start_stable"></a>{{ site.pd-stable-v }}<a id="pdv_end_stable"></a>
 
- - <a id="pdra_stable" href="https://photodemon.org/2020/08/21/photodemon-8-0.html">Read the release announcement</a>
+ - <a id="pdra_stable" href="https://photodemon.org/2020/09/09/photodemon-8-2.html">Read the release announcement</a>
 
 **Beta:** <a id="pdv_start_beta"></a>{{ site.pd-beta-v }}<a id="pdv_end_beta"></a>
 
